@@ -1,0 +1,48 @@
+.footer {
+    background-color: #252525;
+    margin-top: auto;
+    width: 100%;
+    padding: 100%, 15%;
+    color: #efefef;
+    display: flex;
+    
+
+}
+
+.footer div {
+   
+    text-align: justify;
+
+}
+
+.Col-1 {
+   margin-left: 28%;
+
+}
+
+
+.Col-3 {
+    margin-left: 28%;
+}
+
+.footer div h3 {
+    font-weight: 300;
+    margin-bottom: 25px;
+    letter-spacing: 5px;
+
+}
+
+.Col-1 a {
+    display: block;
+    text-decoration: none;
+    color: #efefef;
+    margin-bottom: 10px;
+}
+
+
+.Col-3 a {
+    display: block;
+    text-decoration: none;
+    color: #efefef;
+    margin-bottom: 10px;
+}
